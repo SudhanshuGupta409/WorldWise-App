@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Maunath Bhanjan",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-28T16:50:52.006Z",
+      "notes": "Home City",
+      "position": {
+        "lat": "25.918526162075153",
+        "lng": "83.70483398437501"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Partabpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-29T06:34:10.935Z",
+      "notes": "",
+      "position": {
+        "lat": "23.473323877771172",
+        "lng": "83.99047851562501"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Nao Kothi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-29T06:45:04.686Z",
+      "notes": "",
+      "position": {
+        "lat": "25.522614647623293",
+        "lng": "86.13281250000001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "拉藏乡",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-09-29T06:45:13.245Z",
+      "notes": "",
+      "position": {
+        "lat": "29.592565403314087",
+        "lng": "84.79248046875001"
+      },
+      "id": 98443207
+    }
+  ]
+}
